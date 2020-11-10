@@ -1,2 +1,2 @@
 # Music-Player
-Music player built using Tkinter
+Music player built using Tkinter and pygame
